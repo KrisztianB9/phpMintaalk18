@@ -1,2 +1,5 @@
 .DS_Store
 vendor/
+/kviz.db
+/kviz.db-shm
+/kviz.db-wal
